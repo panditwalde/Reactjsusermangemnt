@@ -1,0 +1,148 @@
+.toolbar {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  background-color: rgb(23, 137, 190);
+}
+
+.userManagementAndSideButton {
+  display: flex;
+  flex-direction: row;
+  width: 50%;
+}
+
+.userManagement {
+  display: flex;
+  font-size: small;
+  margin-top: 5%;
+}
+.avatar {
+  background-color: #ff6f00;
+  margin-top: 1%;
+}
+.avatarAndAdmin {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.profilePaper {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  padding: 15px;
+}
+.welcome {
+  align-items: flex-start;
+  text-align: left;
+  font-size: 100px;
+}
+.logoutTime {
+  color: grey;
+}
+.homeIcon {
+  cursor: pointer;
+}
+.home {
+  cursor: pointer;
+  color: cadetblue;
+}
+.homeIconAndButton {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  margin-top: 15px;
+}
+
+.userInformation {
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+  margin-top: 32px;
+}
+.total {
+  display: flex;
+  flex-direction: row;
+  padding: 25px;
+  width: 22%;
+  min-width: 150px;
+  height: 100px;
+}
+.totalAndTotalCount {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10%;
+}
+
+.countName {
+  margin-top: 13%;
+  font-size: 12px;
+  color: grey;
+}
+.totalAvatar {
+  color: rgb(241, 85, 29);
+}
+.count {
+  font-size: 150%;
+  color: rgb(9, 172, 236);
+}
+
+.graphAndProfile {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: row;
+}
+
+.graphAndLocation {
+  display: flex;
+  flex-direction: row;
+}
+
+.graph {
+  width: 70%;
+  display: flex;
+  flex-direction: column;
+}
+
+.graphAndAllMain {
+  width: 65%;
+  height: 500px;
+}
+
+.verticalLine {
+  border-left: thin solid gray;
+  margin-right: 10px;
+  height: 460px;
+}
+
+.allRegistration {
+  font-size: 100%;
+  font-weight: bold;
+  color: gray;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: rgba(245, 236, 236, 0.979);
+  text-align: left;
+  padding-left: 3%;
+}
+
+.ageGenderLocation {
+  display: flex;
+  justify-content: space-evenly;
+  flex-direction: column;
+  width: 27%;
+}
+
+.buttonsDiv {
+  width: 250px;
+  display: flex;
+  justify-content: center;
+  margin-top: 25px;
+  margin-left: 25px;
+}
+/* .mainGraphDiv {
+ 
+} */
+.allTimeButton {
+  margin-right: 4px;
+}

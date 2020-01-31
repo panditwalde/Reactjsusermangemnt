@@ -1,0 +1,40 @@
+.login {
+  margin-bottom: 30px;
+  width: fit-content;
+  display: flex;
+  justify-content: center;
+  border-radius: 2px;
+  display: flex;
+  padding: 3%;
+
+  flex-direction: column;
+}
+.mi {
+  box-shadow: none;
+  border: 1px solid #d1d6e6;
+  background: #fff;
+  border-radius: 50%;
+  width: fit-content;
+  display: flex;
+  justify-content: center;
+  margin-left: 33%;
+}
+a:link {
+  text-decoration: none;
+  color: aqua;
+}
+.loginicons {
+  box-shadow: none;
+  margin-bottom: 30px;
+  border: 1px solid #d1d6e6;
+  background: #fff;
+  width: fit-content;
+  display: flex;
+  justify-content: center;
+  border-radius: 2px;
+  /* 
+      padding: 3%;
+      margin-left: 47%;
+      margin-top: 3%;
+   */
+}

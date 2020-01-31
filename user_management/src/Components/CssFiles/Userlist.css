@@ -1,0 +1,12 @@
+.mainUserList{
+    display: flex;
+    flex-direction: column;
+    box-shadow: none;
+    margin-bottom: 30px;
+    border: 1px solid #d1d6e6;
+    background: #fff;
+    margin-top: 3%;
+    width: 100%;
+    padding: 4%;
+    
+}

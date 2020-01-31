@@ -1,0 +1,39 @@
+.latestUsersMain {
+  width: 30%;
+  height: 500px;
+  overflow: auto;
+}
+.latestRegistration {
+  font-size: large;
+  align-items: flex-start;
+  text-align: left;
+  margin-bottom: 10px;
+}
+
+.fnameAndLname {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+}
+.eachUser {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+.latestUserAvatar {
+  width: 15%;
+}
+.latestUserInfo {
+  width: 80%;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: flex-start;
+  text-align: left;
+}
+
+.allUsers{
+  padding: 20px;
+}

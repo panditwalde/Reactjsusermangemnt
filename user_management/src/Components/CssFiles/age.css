@@ -1,0 +1,29 @@
+.ageAndPercentage{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    
+}
+.progressBar{
+    width: 60%;
+    margin-top: 4px;
+   
+}
+.ageAndPercentageAndLineProg{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+   
+}
+
+.main{
+   
+}
+
+.ageGroup{
+    display: flex;
+    align-items: flex-start;
+    text-align: left;
+    font-size: large;
+    margin-bottom: 5px;
+}

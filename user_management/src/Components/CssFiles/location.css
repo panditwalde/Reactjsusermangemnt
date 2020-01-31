@@ -1,0 +1,20 @@
+.locationRow {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 85%;
+  margin-top: 5px;
+}
+
+.mainLocation {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.seeAllLocation{
+    margin-top: 5px;
+   text-align: left;
+    cursor: pointer;
+    color:rgb(9, 172, 236);
+}

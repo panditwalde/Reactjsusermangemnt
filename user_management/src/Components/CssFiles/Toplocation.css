@@ -1,0 +1,15 @@
+.mainTopLocation{
+    box-shadow: none;
+    border: 1px solid #d1d6e6;
+    background: #fff;
+    width:fit-content;
+   
+    opacity: .8;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+}
+.TopLocationAndSearch{
+    display: flex;
+    justify-content: space-between;
+}

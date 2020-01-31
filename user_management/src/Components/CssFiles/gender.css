@@ -1,0 +1,10 @@
+.main {
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.gender {
+  font-size: large;
+  text-align: left;
+}

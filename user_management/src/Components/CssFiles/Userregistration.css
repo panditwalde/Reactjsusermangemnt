@@ -1,0 +1,76 @@
+.general{
+
+    box-shadow: none;
+    margin-bottom: 30px;
+    border: 1px solid #d1d6e6;
+    background: #fff;
+    width: 719px;
+    display: flex;
+    justify-content: center;
+    border-radius: 2px;
+    display: flex;
+    flex-direction: column;
+}
+.name{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    padding: 3%;
+
+
+}
+.firstname{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.spancardscss{
+    display: flex;
+    justify-content: flex-start;
+    padding-left: 3px;
+    color: #a0aeba;
+
+}
+.phone{
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    padding: 3%;
+
+}
+.Permissions{
+
+
+    box-shadow: none;
+    border: 1px solid #d1d6e6;
+    background: #fff;
+    width: 100%;
+    border-radius: 2px;
+    
+}
+.photo{
+    box-shadow: none;
+    border: 1px solid #d1d6e6;
+    background: #fff;
+    border-radius: 2px;
+    height:522px;
+    margin-left: 3%;
+
+
+}
+.profileupload{
+    box-shadow: none;
+    border: 1px solid #d1d6e6;
+    background: #fff;
+    border-radius: 2px;
+    width: 75%;
+    height: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 12%;
+    cursor: pointer;
+    margin-top: 9%;
+
+
+}
